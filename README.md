@@ -7,11 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind1805&label=Profile%20views&color=0e75b6&style=flat" alt="arvind1805" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://arvind1805.github.io/Personal_Portfolio/](https://arvind1805.github.io/Personal_Portfolio/)
-
-- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **varvind1805@gmail.com**
 
