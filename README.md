@@ -9,7 +9,7 @@
 
 - 🌱 **Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://arvind1805.github.io/Personal_Portfolio/](https://arvind1805.github.io/Personal_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://arvind1805.github.io/devprofile/](https://arvind1805.github.io/devprofile/)
 
 - 📫 How to reach me **varvind1805@gmail.com**
 
